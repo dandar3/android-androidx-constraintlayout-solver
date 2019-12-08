@@ -1,11 +1,11 @@
 ## androidx-constraintlayout-solver
 
 Eclipse library project based on:<br/>
-https://maven.google.com/androidx/constraintlayout/constraintlayout-solver/1.1.0/constraintlayout-solver-1.1.0.jar
+https://maven.google.com/androidx/constraintlayout/constraintlayout-solver/1.1.1/constraintlayout-solver-1.1.1.jar
 
 **Import:**
 - _File > Import... > Team > Team Project Set > URL:_<br/>
-  https://raw.githubusercontent.com/dandar3/android-androidx-constraintlayout-solver/1.1.0/.projectset
+  https://raw.githubusercontent.com/dandar3/android-androidx-constraintlayout-solver/1.1.1/.projectset
 
 **Requires:**
 - `Android 9 (API 28) SDK Platform`
